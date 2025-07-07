@@ -1,5 +1,5 @@
 # Computational_geometry
-This repo collects the lecture s, example codes and applications of geometry in computer vision 
+This repo collects the lectures, example codes and applications of geometry in computer vision 
 
 Refs:
 
